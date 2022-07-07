@@ -3,15 +3,6 @@
 
 User account service for MuckRock and DocumentCloud.
 
-Contents
-
- - [Install](#install)
- - [Quickstart](#quickstart)
- - [Integrations with MuckRock and DocumentCloud](#integrations)
- - [Docker Containers Info](#docker-containers-info)
- - [Invoke Info](#invoke-info)
- - [Pip Tools](#pip-tools)
-
 ## Install
 
 ### Software required
