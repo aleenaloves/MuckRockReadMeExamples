@@ -1,4 +1,6 @@
 # MuckRock
+[![Codeship Status for MuckRock/muckrock][codeship-img]][codeship]
+[![codecov.io][codecov-img]][codecov]
 
 MuckRock is a non-profit collaborative news site that gives you the tools to keep our government transparent and accountable.
 
@@ -74,3 +76,25 @@ This will build and start all of the docker images using docker-compose.  The in
 -   `SQUARELET_SECRET`  to the value of Client SECRET
 
 You should now be able to log in to MuckRock using your Squarelet account.
+
+[docker]: https://docs.docker.com/
+[docker-compose]: https://docs.docker.com/compose/
+[django]: https://www.djangoproject.com/
+[postgres]: https://www.postgresql.org/
+[redis]: https://redis.io/
+[celery]: https://docs.celeryproject.org/en/latest/
+[invoke]: http://www.pyinvoke.org/
+[docker-install]: https://docs.docker.com/install/
+[docker-compose-install]: https://docs.docker.com/compose/install/
+[invoke-install]: http://www.pyinvoke.org/installing.html
+[python-install]: https://www.python.org/downloads/
+[codeship]: https://app.codeship.com/projects/296009
+[pylint]:  https://www.pylint.org/
+[pip-tools]: https://github.com/jazzband/pip-tools
+[codeship]: https://codeship.com/projects/52228
+[codeship-img]: https://codeship.com/projects/c14392c0-630c-0132-1e4c-4ad47cf4b99f/status?branch=master
+[codecov]: https://codecov.io/github/MuckRock/muckrock?branch=master
+[codecov-img]:https://codecov.io/github/MuckRock/muckrock/coverage.svg?token=SBg37XM3j1&branch=master
+[squarelet]: https://github.com/muckrock/squarelet/
+[yapf]: https://github.com/google/yapf
+[watson]: https://github.com/etianen/django-watson
