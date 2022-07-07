@@ -1,8 +1,5 @@
 # MuckRock
 
-[![Codeship Status for MuckRock/muckrock][codeship-img]][codeship]
-[![codecov.io][codecov-img]][codecov]
-
 MuckRock is a non-profit collaborative news site that gives you the tools to keep our government transparent and accountable.
 
 ## Prerequisites 
